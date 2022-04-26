@@ -1,0 +1,87 @@
+html {
+  scroll-padding-top: 10px;
+}
+body {
+  background: #2c2f35;
+  color: rgb(220, 221, 222);
+  font-family: "Open Sans", sans-serif;
+  display: grid;
+  grid-template-columns: 300px 1fr 300px;
+  align-items: start;
+}
+
+#messages {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.ava {
+  width: 2.5em;
+  border-radius: 100%;
+  margin-top: 0.8em;
+}
+
+.name {
+  display: none;
+}
+
+.messageBlock {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  margin-block: 2em;
+  gap: 0.9em;
+  margin-left: -3.5em;
+}
+
+p {
+  margin-top: 0;
+}
+
+p:nth-last-child(1) {
+  margin-bottom: 0;
+}
+
+.content {
+  display: block;
+  background: #36393f;
+  border-radius: 3px;
+  padding: 1em;
+  line-height: 1.5;
+}
+
+#toc {
+  position: sticky;
+  top: 1.5em;
+}
+
+#toc a {
+  color: white;
+  display: block;
+  padding: 2px;
+}
+
+#toc a:hover {
+  opacity: 0.5;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+.inline {
+  padding: 0.2em;
+  margin-block: -0.2em;
+  background: #1c1e22cb;
+  white-space: pre-wrap;
+}
+
+
+@media screen and (max-width: 1000px) {
+  body {
+    grid-template-columns: 1fr;
+  }
+
+  #toc {
+    position: initial;
+  }
+}
