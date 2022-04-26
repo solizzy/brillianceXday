@@ -12,25 +12,33 @@ body {
 
 #messages {
   max-width: 750px;
-  margin: 0 auto;
+  margin: 0 10px;
+  justify-self: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  margin-top: 0.8em;
 }
 
 .ava {
   width: 2.5em;
   border-radius: 100%;
-  margin-top: 0.8em;
 }
 
 .name {
   display: none;
+  font-weight: bold;
 }
 
 .messageBlock {
-  display: grid;
-  grid-template-columns: auto 1fr;
   margin-block: 2em;
-  gap: 0.9em;
-  margin-left: -3.5em;
+  gap: 0.5em 0.9em;
+  display: flex;
+  align-items: start;
 }
 
 p {
@@ -44,7 +52,7 @@ p:nth-last-child(1) {
 .content {
   display: block;
   background: #36393f;
-  border-radius: 3px;
+  border-radius: 5px;
   padding: 1em;
   line-height: 1.5;
 }
@@ -52,6 +60,8 @@ p:nth-last-child(1) {
 #toc {
   position: sticky;
   top: 1.5em;
+  padding-inline-start: 1em;
+  margin-inline: 10px;
 }
 
 #toc a {
@@ -75,8 +85,13 @@ h2 {
   white-space: pre-wrap;
 }
 
+@media screen and (max-width: 1200px) {
+  body {
+    grid-template-columns: 300px 1fr;
+  }
+}
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
   body {
     grid-template-columns: 1fr;
   }
@@ -84,4 +99,14 @@ h2 {
   #toc {
     position: initial;
   }
+
+  .messageBlock {
+    flex-direction: column;
+  }
+
+  .name {
+    display: block;
+  }
+
 }
+
