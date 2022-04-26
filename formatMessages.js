@@ -51,6 +51,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     Day: `<img src="day.png" width=100  class="ava">`,
   };
 
+  messageContainer.innerHTML = "";
+
   handled.forEach((message) => {
     if (message.from === "SCENE") {
       messageContainer.innerHTML += message.text;
