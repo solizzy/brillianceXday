@@ -133,7 +133,7 @@
   },
   {
     "from": "SCENE",
-    "text":  "<h2>The Werewolf Attack</h2><p class='subtitle'>Word Count 17,139 || Apr 08, 2022 – Apr 26, 2022</p>"
+    "text": "<h2>The Werewolf Attack</h2><p class='subtitle'>Word Count 17,139 || Apr 08, 2022 – Apr 26, 2022</p>"
   },
   {
     "from": "Day",
@@ -1170,5 +1170,86 @@
   {
     "from": "SCENE",
     "text": "<h2>Sanctuary, Brilliance's Room</h2><p class='subtitle'>Word Count ??? || Apr 26, 2022 – ???</p>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<em>It is a cool, overcast day outside. It's still early morning for Covalon -- early enough that all the early-risers have already began their day while those who prefer to sleep in have yet to wake up. A quiet city on the edge of the world wrapped in a blanket of dim, dawn sunlight fighting to pierce through the cloud cover. It's precisely the type of weather Brilliance adores.</em>\n\n<em>Brilliance's room is mostly standard for every Sanctuary room, two beds, two chests, and a window. However, minors bits of <strong>Brilliance</strong> bleed through the otherwise cookie-cutter design. The blanket of his bed is furled back and not made so one could easily lay down without having to untuck the blanket. The second bed in the room has been turned into an impromptu table for things Brilliance grabs frequently enough that he doesn't want to fiddle with a chest. A book and two wooden trays. One of them is covered by vials and flasks filled with a variety of liquids and powders. The other has empty glassware atop it. At current however, there is also a bit of a major part of Brilliance's personality on display -- a large tarp-like textile laid out over the ground.</em>\n\n<em>The door of the room is left wide open for any passerby to peer into. The straight shot of the door also shows off that Brilliance has opened up his room's window to hopefully keep <s>the air from being boring</s> airflow within his room as he works. The tiny tiefling is sat in between the two beds of the room, cross-legged and hunched over the tarp. Atop the top is his current project -- his beloved firearm completely disassembled. Every pin, hand-machined bit of metal, screw, and bit of wood has been stripped out and laid in...some order that makes sense to Brilliance's mind. It looks more like a giant puzzle strewn about to anyone who is unfamiliar. Small vials, rags, and feather-tipped rods are dotted around the tarp intermittently as well. Supplies for cleaning.</em>\n\n<em>Brilliance is wearing his usual outfit with only slight modification. His jacket and shoes are nowhere to be seen on him and his light blue collared shirt is missing its tie. The sleeves of his shirt are rolled up to his elbows, exposing well-toned forearms that are busy at work. He wears a small magnifying eyeglass on his left eye that can be lifted up or pushed back down as needed and his tail is currently clutching a brown rag dirtied with black smudges.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "<em>Day pads barefoot out of her room, glasses pushed up her face as she rubs her eyes with a hand. A towel is thrown over a gloved arm and a thick tome pinched between it and her side. Her usually pristine appearance (at least, it's often well maintained before most missions), shows the wear of a day not yet ended. Flyaways and kinks remain untamed in her hair, and were it not for the satin of her gown, it would certainly be wrinkled.</em>\n\n<em>Her ambling slows as she nears the baths, long ears twitching at a stray noise. Her eyes shift, swiveling to the sound, and oh—the door's open. Her slowed step comes to a stop, head following her gaze to better study the scene. When she's taken in enough details to feel content with being shooed away, her lips part. But no words are formed, no magic voice cast. Instead, more of her turns, shifting, leaning against the open doorway to watch.</em> <span class=\"timestamp-p1Df1m\"><time aria-label=\"Edited Today at 11:25 PM\" datetime=\"2022-04-26T21:25:11.786Z\"><span class=\"edited-1v5nT8\">(edited)</span></time></span>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<em>Brilliance doesn't notice for well over a minute. With him leaned over his disassembled gun and his mind focused on the task at hand, Day's quiet footfalls fall upon deaf ears. By pure chance though, he eventually reaches down with an arm and grabs a piece of his firing mechanism from the tarp. It's a finger sized spring made of a dark metal wound tightly. He lifts both it and his eyes up so he may examine its state in the torchlight of his room....and freezes suddenly at his eyes land on Day. Though he remains frozen, his eyes lift up, up, up the tall expanse of her body before landing on her face. Brilliance blinks once and doesn't say anything first unless Day lets the silence linger overly long.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "<em>She blinks back at him, slowly, as if trying to earn the trust of a cat. That, or as if she were the sleepy cat herself—there are bags under her eyes, shadows of a long night smudged under them.</em> <code class=\"inline\">\"I did not intend to interrupt,\"</code> <em>she mouths across the distance as she, slowly, reluctantly, pushes herself off the doorframe to stand upright. Ready to leave at a moment's notice so he could get back to work, but... not taking that step herself.</em>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<em>A relatively unkempt Day is...a rare sight indeed for him. As usual, the pupiless nature of his eyes makes it hard to tell the precise spot he's looking, but it's clear that he is taking in much of Day. The golden orbs bob slightly up and down, spending most of their time with their centers focused on Day's face. At her words, he nods slowly,</em> \"Uhm...i-it is...is mo-more than fine! Re-really! Were....were yo-you about to go and...and <code class=\"inline\">ba-bathe?</code>\" <em>His last word is a strained whisper, but not one delivered via her magic.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "<em>She relaxes back against the doorframe, maintaining eye contact.</em> <code class=\"inline\">\"I was.\"</code> <em>She lets her gaze drop down to his hands, lingering briefly on the tone of his forearms, then further down to the organized chaos.</em> <code class=\"inline\">\"Is your gun maintenance often this in-depth?\"</code>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<em>Was. Brilliance's thoughts hang on the choice of tense.</em>\n\n<em>He shakes his head to her question,</em> \"N-n-no erm...there....the...the bo-bombs I've been using. They...they deg-degraded my gun fa-far quicker than expected. I have...have co-concocted an oil I thi-think will be....be qui-quite helpful in sta-staving off such issues going fo-forward.\""
+  },
+  {
+    "from": "Day",
+    "text": "<code class=\"inline\">\"This oil would be enough to handle the various properties your bombs make use of? May I see?\"</code> <em>She doesn't move just yet, aside a slight tilt of her head.</em>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<em>Brilliance tail coils around himself and motions with a 'come here' motion to Day. At the same time, he nods and his free hand darts down to grab one of the glassware containers. This one is a palm-sized flask made of a dull brown/black glass. It's nearly completely opaque.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "<code class=\"inline\">\"Door?\"</code> <em>she asks as she leans away from the frame again.</em>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "\"....clo-closed....\" <em>He murmurs back.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "<em>The door clicks shut behind her as she steps closer. And then a little closer still, sinking to her knees beside him, gaze completely focused on the flask he palms.</em> \"It is light sensitive?\""
+  },
+
+  {
+    "from": "Brilliance",
+    "text": "\"Ov-over a....lo-long enough time sc-scale, yes!\" <em>He explains. His right hand lowers back down and gingerly lays the spring back where it was,</em> \"My...th-there old oils I used are...are more tha-than satisfactory for...for normal prope-propellant and shot. If I were to coa-coat my shot in lin-lingering acid or a fla-flaming substance for long...th-they got eaten through.\""
+  },
+  {
+    "from": "Day",
+    "text": "<em>Her eyes shift down to the assortment of pieces, studying them, the drowsy mist of her mind all too easily swept away by a gust of curiosity.</em> \"And what makes the new oil so durable? How is it able to subdue the effects of opposing properties - like fire and cold?\" <em>She nearly fires off another question, but catches herself, graciously giving him a second to answer.</em>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "\"The co-cold isn't an issue. The two bi-big things I mus-must worry about is the he-heat, ac-acid, and also ah...when I lo-load thunderstones.\" <em>Brilliance's tail coils out and grabs one of the smaller, thin rods. His left hand uncaps the flask and his tail starts to dip the feather tip into the oil within.</em> \"Yo-you ah...I...a lo-lot of experi-experimentation a-a-and study, honestly. Ta-taking the be-best aspects of va-various concoctions of tho-those who have tr-t-treaded before me.\""
+  },
+  {
+    "from": "Day",
+    "text": "<em>She nods absentmindedly and shifts, moving to get a better overall view of his workflow.</em> \"So it is a creation of your own?\" <em>Her hand wanders to her hip, reaching for a pouch that is not there. Tap tap. Tap. Hmm.</em>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<code class=\"inline\">\"I wo-would...hesitate to say such a thing...\"</code> <em>He murmurs back in a whisper. He withdraws the feather tipped rod from the flask and brings it close for Day to examine. The oil is a translucent white color and seems extraordinarily thick. Far thicker than what comes to mind when one hears 'oil'.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "\"Then... was the precise combination of components used for this concoction... one you found in a book?\" <em>Well there's something for her hand to do now. She leans in close, inspecting the rod at eye level, and holds her hands out to take it.</em>"
+  },
+  {
+    "from": "Brilliance",
+    "text": "<em>Brilliance hands it off without thinking. His face frowns lightly at Day's question and he makes a quiet sound of protest which is...probably all the answer she needs to know she's right. He turns his attention to grabbing a second feather-tipped rod and dipping it into his flask.</em>"
+  },
+  {
+    "from": "Day",
+    "text": "<em>Her smile is fleeting, a glimpse of sunlight peeking through a break in curious clouds. But the clouds drift back into view and her attention dances to the feathered rod in her hands, twisting and turning it, lifting it to her face and giving a tentative sniff. Her nose curls at the smell. And as tempting as it is to test the viscosity and adhesiveness of the mixture, her equipment is elsewhere. Instead, she settles it to watch him work, keen to see it in application.</em> <span class=\"timestamp-p1Df1m\"><time aria-label=\"Edited Today at 2:43 AM\" datetime=\"2022-04-27T00:43:38.467Z\"><span class=\"edited-1v5nT8\">(edited)</span></time></span>"
   }
 ]
